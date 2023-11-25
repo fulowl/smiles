@@ -1,14 +1,11 @@
-# smiles
-Robust Self-supervised Multi-instance Learning with Structure Awareness
+# SMILES: Robust Self-supervised Multi-instance Learning with Structure Awareness
 
 
-
-
-
-Prerequisites
+## Prerequisites
 
 SMILES needs the following packages to be installed beforehand:
 
+```
 Python 3.8+
 
 PyTorch 1.9+
@@ -24,8 +21,9 @@ Numpy
 tqdm
 
 NetworkX
+```
 
-Running Code
+## Running Code
 
-> python Smiles.py
+``` python Smiles.py ```
 
