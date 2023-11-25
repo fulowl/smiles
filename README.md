@@ -27,3 +27,15 @@ NetworkX
 
 ``` python Smiles.py ```
 
+## References
+```
+@inproceedings{wang2023robust,
+  title={Robust self-supervised multi-instance learning with structure awareness},
+  author={Wang, Yejiang and Zhao, Yuhai and Wang, Zhengkui and Wang, Meixia},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={8},
+  pages={10218--10225},
+  year={2023}
+}
+```
